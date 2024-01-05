@@ -1,0 +1,33 @@
+#main{
+    background-color: gray;
+    justify-content: center;
+    padding-left: 250px;
+    padding-top: 100px;
+    height: 500px;width: 1250px;
+    margin-left: 10px;
+}
+.block{
+    height: 300px;width: 300px;
+    display: inline;
+    float: left;
+    text-align: center;
+    margin-right: 50px;
+    background-color: white;
+    border-radius: 30px;
+    padding-top: 50px;
+}
+img{
+    height: 50px;width: 50px;
+}
+input{
+    height: 40px;width: 150px;
+    background-color: rgba(0, 55, 255, 0.778);
+    border-radius: 20px;
+}
+p{  
+    margin-left: 25px;
+    width: 250px;
+    border-bottom: 2px solid rgba(0, 55, 255, 0.778);
+    color: gray;
+    padding-bottom: 20px;
+}
